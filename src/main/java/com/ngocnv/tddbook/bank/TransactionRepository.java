@@ -1,4 +1,4 @@
-package com.ngocnv.tddbook;
+package com.ngocnv.tddbook.bank;
 
 import java.util.ArrayList;
 import java.util.Collections;

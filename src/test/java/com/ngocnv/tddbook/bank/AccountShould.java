@@ -1,4 +1,4 @@
-package com.ngocnv.tddbook;
+package com.ngocnv.tddbook.bank;
 
 import static org.mockito.BDDMockito.given;
 import static org.mockito.Mockito.verify;

@@ -1,4 +1,4 @@
-package com.ngocnv.tddbook;
+package com.ngocnv.tddbook.bank;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

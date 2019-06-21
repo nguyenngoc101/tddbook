@@ -1,8 +1,8 @@
-import com.ngocnv.tddbook.Account;
-import com.ngocnv.tddbook.Clock;
-import com.ngocnv.tddbook.Console;
-import com.ngocnv.tddbook.StatementPrinter;
-import com.ngocnv.tddbook.TransactionRepository;
+import com.ngocnv.tddbook.bank.Account;
+import com.ngocnv.tddbook.bank.Clock;
+import com.ngocnv.tddbook.bank.Console;
+import com.ngocnv.tddbook.bank.StatementPrinter;
+import com.ngocnv.tddbook.bank.TransactionRepository;
 
 public class BankKataApplication {
 
